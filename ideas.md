@@ -10,7 +10,5 @@
 Resources:
 
 1. Coursera: Andrew Ng's course
-
-2. For the more theoretical minded: Yaser Abu-Mostafa: Learning from Data
-
+2. For the more theoretical minded- Yaser Abu-Mostafa's Learning from Data
 3. Machine Learning w/ Apache Spark
