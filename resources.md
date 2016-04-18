@@ -15,6 +15,19 @@ This is an amazing book that goes over various machine learning algorithms in de
 ### Dive Into Python 3 (http://www.diveintopython3.net/table-of-contents.html)
 This online book is a little outdated by now, but it does teach the fundamentals of Python 3. This is a good book if you already have some background in programming, but not so great if you're a beginner. I haven't found any up-to-date resources for beginners that want to learn Python.
 
+# Libraries
+## scikit-learn
+### Jake Vanderplas - Machine Learning with Scikit-Learn (https://www.youtube.com/watch?v=HC0J_SPm9co)
+This is a video lecture that introduces how to use scikit-learn, the premier machine learning library in Python. The presenter assumes that anyone who's watching is already relatively experienced with Python, so if you don't understand the video the first time around, check it out again when you're a little more familiar with Python :)
+### Andreas Mueller - Advanced Scikit-Learn (https://www.youtube.com/watch?v=ZL77pbWBZQA)
+
+
+# Visualization (TODO)
+
+# Machine Learning and Systems
+### Josh Bloom: Keynote - A Systems View of Machine Learning (https://www.youtube.com/watch?v=i-1UmCYyzi4)
+
+
 # Other Resources (I got these from my Data Mining TA):
 
 This site (http://setosa.io/ev/) provides visual explanations to some ML concepts.
