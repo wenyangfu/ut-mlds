@@ -11,6 +11,8 @@ Yaser Abu-Mostafa's machine learning course focuses more on machine learning the
 ### Introduction to Statistical Learning in R (http://www-bcf.usc.edu/~gareth/ISL/)
 This is an amazing book that goes over various machine learning algorithms in detail. The best thing? The PDF is free! It's clear and well-written, and has a lot of content to boot. Read this book if you want to learn about all aspects of machine learning - it surveys a broad swath of ML algorithms.
 
+### Elements of Statistical Learning (http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+
 # Python
 ### Dive Into Python 3 (http://www.diveintopython3.net/table-of-contents.html)
 This online book is a little outdated by now, but it does teach the fundamentals of Python 3. This is a good book if you already have some background in programming, but not so great if you're a beginner. I haven't found any up-to-date resources for beginners that want to learn Python.
